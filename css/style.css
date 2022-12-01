@@ -1,0 +1,51 @@
+body{
+    background-color: #000;
+}
+.widgets>div {
+    background-color: #fff;
+    border: 5px solid #000;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+.navbar{
+    margin:0;
+}
+.main{
+    margin-bottom: 20px;
+}
+li a {
+    text-decoration: none;
+    list-style: none;
+}
+
+li a:hover {
+    background-color: lawngreen;
+    color: black;
+}
+.btn:hover{
+    background-color: lightseagreen;
+    color: black; 
+}
+
+.nav-link:hover {
+    background-color: lawngreen;
+    color: #000;
+}
+
+.thc:hover{
+    background-color: lawngreen;
+
+}
+.thc{
+    padding-bottom: 15px;
+}
+.icon:hover{
+    background-color: lawngreen;
+}
+.weed{
+    height: 250px;
+
+}
+.group{
+    color:#fff;
+}
